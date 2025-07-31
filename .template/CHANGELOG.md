@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 The format is based on Keep a Changelog
 and this project adheres to Semantic Versioning.
 
+[0.0.4] - 2025-07-31
+
+Fix
+    - Removed use of custom module import in main.py.
+
 [0.0.3] - 2025-07-31
 
 Added
